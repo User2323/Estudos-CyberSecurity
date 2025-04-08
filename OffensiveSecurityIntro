@@ -1,1 +1,16 @@
 README.md
+
+# TryHackMe - Offensive Security Intro
+
+## O que aprendi:
+- Como funciona uma aplicação vulnerável
+- Ferramentas básicas de invasão (ex: Burp Suite)
+- Primeira experiência com vulnerabilidades reais
+
+## Desafios concluídos:
+- [x] Hackear site vulnerável
+- [x] Explorar campo de login
+- [x] Conseguir flag final
+
+## Próximos passos:
+- Continuar para a trilha “Pre Security” ou “Junior Penetration Tester”

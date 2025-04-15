@@ -1,3 +1,6 @@
+Este documento reúne os principais tipos de ataques cibernéticos, com explicações rápidas e exemplos práticos, servindo como referência para estudo e aplicação prática em ambientes simulados.
+
+
 | Ataque              | Definição Rápida                                            | Exemplo Prático                            |
 |---------------------|-------------------------------------------------------------|---------------------------------------------|
 | Phishing            | Enganar a vítima pra revelar informações sensíveis.         | E-mail falso do banco pedindo dados.        |
@@ -7,3 +10,8 @@
 | SQL Injection       | Injeção de código malicioso em bancos de dados.           | Acesso indevido a cadastros de usuários.    |
 | Man-in-the-Middle   | Intercepta comunicação entre duas partes.                 | Interceptar login via Wi-Fi público.        |
 | Zero-day	          | Exploração de uma vulnerabilidade desconhecida.	          | Hacker aproveita falha recém-descoberta sem patch.  |
+
+
+## Fontes recomendadas para aprofundamento
+- https://owasp.org/
+- https://attack.mitre.org/

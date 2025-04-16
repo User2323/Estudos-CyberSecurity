@@ -1,6 +1,6 @@
-#Reconhecimento#    
+# Reconhecimento #   
 
-Técnicas comuns de reconhecimento
+# Técnicas comuns de reconhecimento #
 
 🕵️‍♂️ OSINT (Open Source Intelligence): coleta de dados públicos, como redes sociais, sites e domínios.
 
@@ -8,4 +8,4 @@ Técnicas comuns de reconhecimento
 
 📡 Port Scanning (ex: Nmap): descobrir quais portas estão abertas e que serviços estão rodando.
 
-Em breve eu pretendeo testar essas técnicas na prática usando ferramentas como o Nmap, dig, whois etc
+# Em breve eu pretendeo testar essas técnicas na prática usando ferramentas como o Nmap, dig, whois etc # 

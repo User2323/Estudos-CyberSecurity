@@ -1,3 +1,5 @@
+#Reconhecimento#    
+
 Técnicas comuns de reconhecimento
 
 🕵️‍♂️ OSINT (Open Source Intelligence): coleta de dados públicos, como redes sociais, sites e domínios.
